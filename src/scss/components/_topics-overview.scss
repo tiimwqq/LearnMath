@@ -1,0 +1,19 @@
+.topics {
+
+	width: 100%;
+	min-height: 700px;
+	background-color: #222222;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+	border-radius: 20px;
+	
+	&__title {
+		text-align: center;
+		font-size: 30px;
+		font-weight: 600;
+		background-color: #222222;
+		color: #85C333;
+		margin-top: 60px;
+	}
+}
